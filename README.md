@@ -6,3 +6,6 @@
   Para determinar o sucesso ou o fracasso de suas ações, os jogadores lançam dados poliédricos, cada um com um número diferentes de faces, que adicionam um elemento de aleatoriedade e estratégia ao jogo
 
 ![image](https://github.com/ShaiKARALHO/Projeto_Marotos/assets/148061520/c2edc4e5-2912-40be-9c1b-bad2abd2cba1)
+
+![image](https://github.com/ShaiKARALHO/Projeto_Marotos/assets/148061520/a2068e04-c813-4c10-92d2-530a0ee626ef)
+
